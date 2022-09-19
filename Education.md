@@ -50,4 +50,4 @@ http://example.com/ (это просто ссылка)
 
 ## Картинка
 
- ![Дерево](/"C:\Users\poerg\Desktop\Git\cyprus-1990939.jpg")
+![Дерево](cyprus-1990939.jpg)
