@@ -63,7 +63,7 @@ http://example.com/ (это просто ссылка)
 
 
 <table>
-<tr><td bgcolor="#FFFAF0">
+<tr><td bgcolor="#00BFFF">
 Учимся работать со цветами
 </td></tr>
 </table>
