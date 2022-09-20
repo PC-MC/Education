@@ -52,3 +52,8 @@ http://example.com/ (это просто ссылка)
 
 Чтобы добавить картинку нужно написать следующее ![название] (название картинки)
 ![Дерево](cyprus-1990939.jpg)
+
+
+![](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
+
+![](https://cs14.pikabu.ru/post_img/2022/08/02/3/1659407427123535691.jpg)
