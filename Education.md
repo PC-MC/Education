@@ -91,6 +91,10 @@ http://example.com/ (это просто ссылка)
 ![Дерево](cyprus-1990939.jpg)
 
 
+![](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
+
+![](https://cs14.pikabu.ru/post_img/2022/08/02/3/1659407427123535691.jpg)
+
 
 # Цвета
 
@@ -107,8 +111,4 @@ http://example.com/ (это просто ссылка)
 
 
 
-
-![](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
-
-![](https://cs14.pikabu.ru/post_img/2022/08/02/3/1659407427123535691.jpg)
 
